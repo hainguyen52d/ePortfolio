@@ -24,7 +24,7 @@ Application Overview:
 - Platform: Android Studio
 - Purpose: Empowering users in health and fitness journey through weight monitoring and dietary control.
 
-##### Artifact 1 - ClickedItemActivity.java
+#### Artifact 1 - ClickedItemActivity.java
 
 **Objective Alignment:**
 - Proficiency in mobile programming languages and frameworks.
@@ -43,5 +43,5 @@ Application Overview:
 - Demonstrating problem-solving and design evaluation skills.
 
 #### 2.2 ORIGINAL CODE: CLICKEDITEMACTIVITY.JAVA
-```java
-// Your original code here
+#### 2.3 MODIFIED CODE: CLICKEDITEMACTIVITYMODIFIED.JAVA
+
