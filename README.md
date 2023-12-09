@@ -16,7 +16,7 @@ In the software engineering course, I embraced Agile methodologies to proficient
 ### SECTION 2: SOFTWARE DESIGN AND ENGINEERING
 
 #### 2.1 INTRODUCTION AND THE ARTIFACT OF SOFTWARE DESIGN IN EPORTFOLIO:
-![weightracking](https://github.com/hainguyen52d/ePortfolio/assets/92653054/8a5a02b4-6270-486f-af70-dcfcd4d7dc66)
+![weightracking](https://github.com/hainguyen52d/ePortfolio/blob/main/images/weightracking.jpg=200x150)
 
 Application Overview:
 - Name: Weight Tracking
