@@ -17,7 +17,7 @@ In the software engineering course, I embraced Agile methodologies to proficient
 
 #### 2.1 INTRODUCTION AND THE ARTIFACT OF SOFTWARE DESIGN IN EPORTFOLIO:
 <div align="center">
-  <img src="https://github.com/hainguyen52d/ePortfolio/blob/main/images/weightracking.jpg" alt="weightracking" width="400" height="300">
+  <img src="https://github.com/hainguyen52d/ePortfolio/blob/main/images/weightracking.jpg" alt="weightracking" width="200" height="150">
 </div>
 
 Application Overview:
