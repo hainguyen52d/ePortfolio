@@ -16,14 +16,14 @@ In the software engineering course, I embraced Agile methodologies to proficient
 ### SECTION 2: SOFTWARE DESIGN AND ENGINEERING
 #### 2.1	INTRODUCTION AND THE ARTIFACT OF SOFTWARE DESIGN IN EPORTFOLIO: 
 
-![GitHub Logo](https://github.com/hainguyen52d/portfolio/blob/main/images/weightracking.jpg)
+![weightracking](https://github.com/hainguyen52d/portfolio/blob/main/images/weightracking.jpg)
 
 <p>Application Overview: <br>Name: Weight Tracking<br>
 Creation Date: December 17, 2022<br>
 Platform: Android Studio<br>
 Purpose: Empowering users in health and fitness journey through weight monitoring and dietary control.<br>
 
-#### Artifact 1 - ClickedItemActivity.java ####
+#### Artifact 1 - ClickedItemActivity.java
 ##### Objective Alignment:
 Proficiency in mobile programming languages and frameworks.<br>
 Incorporating new mobile programming techniques.<br>
