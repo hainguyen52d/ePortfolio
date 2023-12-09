@@ -1,4 +1,4 @@
-# Computer Science
+# Computer Science Portfolio
 
 ### Education
 Associate Degree in Computer Information  
