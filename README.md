@@ -48,7 +48,7 @@ Application Overview:
 ## SECTION 3: ALGORITHMS AND DATA STRUCTURES
 
 ### 3.1 INTRODUCTION AND THE ARTIFACT OF ALGORITHMS AND DATA STRUCTURES
-![Datastructures](https://github.com/hainguyen52d/ePortfolio/assets/92653054/076d2afa-6497-4774-97af-a0975d5ddab7)
+<img src="https://github.com/hainguyen52d/ePortfolio/assets/92653054/076d2afa-6497-4774-97af-a0975d5ddab7" alt="Datastructures" width="200" height="150">
 
 **Application Overview:**
 - Name: Sorting Data Structures
@@ -75,8 +75,7 @@ Application Overview:
 ## SECTION 4: DATABASES
 
 ### 4.1 INTRODUCTION AND THE ARTIFACT OF DATABASES
-![animalrescue](https://github.com/hainguyen52d/ePortfolio/assets/92653054/0aebd632-587e-42b1-830d-aff07b780267)
-
+<img src="https://github.com/hainguyen52d/ePortfolio/assets/92653054/0aebd632-587e-42b1-830d-aff07b780267" alt="animalrescue" width="200" height="150">
 
 **Application Overview:**
 - Name: Databases
