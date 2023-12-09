@@ -46,3 +46,61 @@ Application Overview:
 #### 2.2 ORIGINAL CODE: CLICKEDITEMACTIVITY.JAVA
 #### 2.3 MODIFIED CODE: CLICKEDITEMACTIVITYMODIFIED.JAVA
 
+## SECTION 3: ALGORITHMS AND DATA STRUCTURES
+
+### 3.1 INTRODUCTION AND THE ARTIFACT OF ALGORITHMS AND DATA STRUCTURES
+![Datastructures](https://github.com/hainguyen52d/ePortfolio/assets/92653054/076d2afa-6497-4774-97af-a0975d5ddab7)
+
+**Application Overview:**
+- Name: Sorting Data Structures
+- Creation Date: December 04, 2021
+- Platform: C++
+- Purpose: The software artifact, "vectorSorting.cpp," crafted on December 4, 2021, serves as a comprehensive program encompassing sorting algorithms, specifically selection sort, and quicksort. Beyond sorting functionalities, the program features bid data loading from a CSV file, bid display, and timing mechanisms for sorting operations. This artifact aligns prominently with Course Outcome, emphasizing proficiency in sorting algorithms.
+
+**Artifact 2 - VectorSorting.cpp:**
+**Sorting Algorithms Focus:**
+- Proficient demonstration of sorting algorithms, with a specific emphasis on quicksort.
+- Reflects solid understanding crucial for various software development scenarios.
+
+**Enhancement Plan:**
+- Aligns explicitly with the course outcome, emphasizing the importance of implementing and optimizing sorting algorithms.
+- Recognizes the potential impact on computer system and application performance.
+
+**Course Outcomes:**
+- Aligns with Course Outcome, emphasizing sorting algorithm proficiency.
+- Addresses the importance of algorithm implementation and optimization in enhancing computer system and application performance.
+
+### 3.2 ORIGINAL CODE: VECTORSORTING.CPP
+### 3.3 MODIFIED CODE: VECTORSORTINGMODIFIED.CPP
+
+## SECTION 4: DATABASES
+
+### 4.1 INTRODUCTION AND THE ARTIFACT OF DATABASES
+![animalrescue](https://github.com/hainguyen52d/ePortfolio/assets/92653054/0aebd632-587e-42b1-830d-aff07b780267)
+
+
+**Application Overview:**
+- Name: Databases
+- Creation Date: Feb 19, 2023
+- Platform: Jupyter Notebook, Python, MongoDB
+- Purpose: The software application, "ProjectTwoDashboard.ipynb," was crafted on February 19, 2023, as an integral part of the "Training and Motivation" initiative within the International Animal Shelter. This Python-based application leverages MongoDB Compass and 'Jupyter Notebook' to meticulously sort and identify specific dog profiles for training purposes. The focus lies in contributing to the overall training and motivation of dogs within the shelter environment.
+
+**Artifact 3 - ProjectTwoDashboard.ipynb:**
+**Sorting Algorithms Focus:**
+- Illustrates adeptness in sorting algorithms, especially quicksort.
+- Essential for showcasing a robust understanding of fundamental algorithms crucial in diverse software development scenarios.
+
+**Enhancement Plan:**
+- Integration of multiple database systems (SQL and NoSQL) and the use of Node.js for the back end highlight versatility in language selection for full-stack application development.
+- Implementation of security measures aligns the project with security best practices, addressing usability and performance considerations.
+
+**Course Outcomes:**
+- The artifact aligns with the course outcome, emphasizing practical solutions in multiple programming languages for real-world problems.
+- The use of a diverse technology stack (Python, MongoDB Compass, 'Jupyter Notebook') showcases proficiency in multiple tools and languages, highlighting versatility.
+
+### 4.2 ORIGINAL CODE: ProjectTwoDashboard.ipynb
+### 4.3 ADDITIONAL CODES: dog.js and app.js
+
+## SECTION 5: CODE REVIEW IN VIDEO FORM
+
+[Watch Code Review Video](https://www.youtube.com/watch?v=THlYTArHohg&t=23s)
